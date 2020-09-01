@@ -12,3 +12,5 @@ wget --mirror \
      https://www.justiceformyanmar.org \
       --no-parent https://www.justiceformyanmar.org
 ````
+
+![screenshot of the website](https://i.imgur.com/JSyQuh5.png)
